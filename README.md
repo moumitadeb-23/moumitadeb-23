@@ -204,26 +204,6 @@ Fully serverless image optimization system on AWS that automatically resizes and
 
 ---
 
-### `$ ./trophies --columns 7`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=moumitadeb-23&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&row=2)
-
-</div>
-
----
-
-### `$ ./activity-graph --render`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moumitadeb-23&bg_color=0D1117&color=00E5A0&line=00E5A0&point=0FFCBE&area=true&hide_border=true)
-
-</div>
-
----
-
 ### `$ ./summary-cards --full`
 
 <div align="center">
